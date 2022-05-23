@@ -1,4 +1,4 @@
-let total = 4;
+let total = 10;
 let strings = "*";
 
 // this is first time i had try
