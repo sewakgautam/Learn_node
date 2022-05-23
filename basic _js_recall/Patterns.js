@@ -9,9 +9,8 @@ let strings = "*";
 //     }
 // }
 
-
 // i realized that this pattern can also be done on single loop
-for(let i = 1; i<=total; i++){
-    console.log(strings);
-    strings+="*"
+for (let i = 1; i <= total; i++) {
+  console.log(strings);
+  strings += "*";
 }
